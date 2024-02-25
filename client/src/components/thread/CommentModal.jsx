@@ -1,6 +1,7 @@
 import { useState } from "react";
 import toast from "react-hot-toast";
 import { AiOutlineClose } from "react-icons/ai";
+
 import { useTheme } from "../../hooks/useTheme";
 
 const CommentModal = ({ isOpen, onClose, onCommentSubmit }) => {
