@@ -163,5 +163,5 @@ Follow these steps to set up the project on your local machine:
 4. **Access the application**:
    Open your browser and visit: [http://localhost:5173](http://localhost:5173)
 
-Made with ❤️ by Shoaib Hasan
+Made with Ashitosh Bhise
 
