@@ -2,17 +2,6 @@
 
 Welcome to Threads, a social media application clone that allows users to share posts, interact with other users, and personalize their experience with dark and light modes. Threads offers full user authentication, including login, logout, signup, and password management features. Users can create, edit, and delete posts, view other users' posts, like and comment on posts, and can repost other user's post and follow/unfollow other users.
 
-## 🌐 Live Preview
-
-Checkout Live Preview by clicking the image below:
-
-[![LivePreview](./client/src/assets/preview.jpg)](https://threads-clone-two-pink.vercel.app/)
-
-
-
-## Demo Video
-
-Check out the demo video of Threads in action: [Demo Video](#)
 
 ## 💻 Tech Stack
 
